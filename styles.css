@@ -42,7 +42,7 @@
   --bs-danger: #dc3545;
   --bs-light: #f8f9fa;
   --bs-dark: #212529;
-  --bs-primary-rgb: 189, 93, 56;
+  --bs-primary-rgb: 0, 204, 204;
   --bs-secondary-rgb: 108, 117, 125;
   --bs-success-rgb: 25, 135, 84;
   --bs-info-rgb: 13, 202, 240;
@@ -62,7 +62,7 @@
   --bs-body-font-weight: 400;
   --bs-body-line-height: 1.5;
   --bs-body-color: #d63384;
-  --bs-body-bg: #2E5A88;
+  --bs-body-bg: #fff;
   --bs-border-width: 1px;
   --bs-border-style: solid;
   --bs-border-color: #dee2e6;
